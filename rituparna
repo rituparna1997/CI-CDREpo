@@ -1,0 +1,4 @@
+working directory from staging area  
+- git restore --staged rituparna (file name)
+to commit a fie local repository for _git commit -m "commited who is done this commit or project by done "
+what is repository in git :::::.git file
